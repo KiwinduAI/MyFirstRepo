@@ -1,2 +1,2 @@
-I have learned how to use Git and GitHub from my Android phone using Termux!
+What I have learned from this courseI have learned how to use Git and GitHub from my Android phone using Termux!
 I'm getting better at using Git and GitHub from my Android device!
