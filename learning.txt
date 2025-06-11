@@ -1,4 +1,4 @@
 What I have learned from this courseI have learned how to use Git and GitHub from my Android phone using Termux!What I have learned from this course
 
 I have learned how to use Git, GitHub, Termux, and basic command line tools. It has improved my understanding of version control and helped me start my journey into software development.
-I'm getting better at using Git and GitHub from my Android device!
+I'm getting better at using Git and GitHub from my Android device.
